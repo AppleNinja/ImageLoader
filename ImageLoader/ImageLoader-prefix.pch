@@ -1,0 +1,18 @@
+//
+//  ImageLoader-prefix.pch
+//  ImageLoader
+//
+//  Created by Sreekumar on 27/05/17.
+//  Copyright © 2017 Sreekumar. All rights reserved.
+//
+
+#ifndef ImageLoader_prefix_pch
+#define ImageLoader_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif /* ImageLoader_prefix_pch */
